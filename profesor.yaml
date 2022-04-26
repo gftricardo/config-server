@@ -5,7 +5,7 @@ server:
 # Spring properties
 spring:  
   application:
-    name: profesor
+    name: profesores
 
 # Discovery Server Access
 eureka:
