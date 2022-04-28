@@ -1,6 +1,6 @@
 # HTTP Server
 server:  
-  port: 8056   # HTTP port
+  port: 8057   # HTTP port
 
 # Spring properties
 spring:  
