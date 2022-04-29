@@ -13,6 +13,6 @@ eureka:
 zuul:
   routes:
     greetings:
-      path: /profesores/**
-      serviceId: PROFESORES
+      path: /contacts/**
+      serviceId: CONTACTS
       stripPrefix: false
